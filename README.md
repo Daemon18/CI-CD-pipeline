@@ -2,7 +2,8 @@
 
 This repository hosts a comprehensive Jenkins pipeline script designed to orchestrate the CI/CD process for deploying applications. The pipeline automates key stages of the software delivery lifecycle, including compilation, testing, static code analysis, Docker image building, vulnerability scanning, deployment to Kubernetes, and post-deployment verification.
 
-![Pipeline ](https://github.com/Daemon18/CI-CD-pipeline/assets/113002971/c35f5e25-cd5e-4a0a-959e-2a0dc53db185)
+[Draw2 [MConverter.eu].pdf](https://github.com/Daemon18/CI-CD-pipeline/files/15157654/Draw2.MConverter.eu.pdf)
+
 
 ## Pipeline Overview
 
