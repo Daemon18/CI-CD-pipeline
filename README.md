@@ -16,7 +16,7 @@ The CI/CD pipeline is meticulously structured to ensure seamless software delive
 5. **SonarQube Analysis**: Performs rigorous static code analysis via SonarQube to enhance code quality.
 6. **Quality Gate**: Verifies adherence to quality gate criteria, ensuring the code meets predefined standards.
 7. **Build**: Packages the application into distributable units ready for deployment.
-8. **Publish To Nexus**: Deploys the built artifacts to Nexus repository manager for efficient artifact management.
+8. **Publish To Nexus**: Deploys the built artifacts to Nexus repository manager for efficiently manage artifact.
 9. **Build & Tag Docker Image**: Constructs and tags a Docker image to facilitate containerized deployment.
 10. **Docker Image Scan**: Conducts thorough vulnerability scanning of the Docker image using Trivy.
 11. **Push Docker Image**: Pushes the Docker image to a designated Docker registry for availability.
