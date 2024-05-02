@@ -38,7 +38,7 @@ Then, you can run the script using:
 This script will automate the installation process of OpenJDK 17 JRE Headless and Jenkins.
 
 
-## Install docker for future use
+## Install docker For Future Refernces
 
 ```bash
 #!/bin/bash
