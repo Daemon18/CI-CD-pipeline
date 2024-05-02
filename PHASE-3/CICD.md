@@ -7,7 +7,7 @@
    - Click on the "Install without restart" button.
 
 2. **Pipeline Maven Integration**:
-   - This plugin provide Maven support for Jenkins Pipeline.
+   - This plugin provide Mavens support for Jenkins Pipeline.
    - It allows you to use Maven commands directly within your Jenkins Pipeline scripts.
    - To install, follow the same steps as above, but search for "Pipeline Maven Integration" instead.
 
